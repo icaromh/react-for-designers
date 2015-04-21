@@ -1,6 +1,6 @@
 # React for Designers
 
-Work in progres.
+Work in progress.
 
 ## Credits
 
