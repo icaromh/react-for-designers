@@ -5,5 +5,5 @@ title: React-like jQuery
 ---
 
 <div class="message">
-  Howdy!
+  <strong>Note:</strong> This post is currently a rough draft.
 </div>
