@@ -23,3 +23,22 @@ body {
   color: #333;
   font-weight: 500;
 }
+
+.twitter-tweet {
+  margin-bottom: 1.5rem !important;
+}
+
+h2 {
+  margin-top: 3rem;
+}
+
+.jsbin-wrapper {
+  @media (min-width: 56em) {
+    margin-left: -15%;
+    margin-right: -15%;
+  }
+  @media (min-width: 64em) {
+    margin-left: -25%;
+    margin-right: -25%;
+  }
+}
