@@ -10,6 +10,8 @@ tagline:             For the rest of us
 url:                 http://reactfordesigners.com
 paginate:            1
 baseurl:             ""
+markdown:            redcarpet
+highlighter:         pygments
 
 # Assets
 #
