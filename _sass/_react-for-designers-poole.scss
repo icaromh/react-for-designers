@@ -1,5 +1,5 @@
 body {
-  font-family: "avenir next", helvetica, arial, sans-serif;
+  font-family: "avenir next", "helvetica neue", helvetica, arial, sans-serif;
 }
 
 .post-page__logo {
@@ -28,8 +28,24 @@ body {
   margin-bottom: 1.5rem !important;
 }
 
+h1 {
+  font-size: 3rem;
+}
+
 h2 {
   margin-top: 4rem;
+  font-size: 2rem;
+}
+
+h3 {
+  font-size: 1.5rem;
+  font-weight: 500;
+  margin-top: 2.5rem;
+  color: #7a7a7a;
+}
+
+strong {
+  font-weight: 500;
 }
 
 .jsbin-wrapper {
