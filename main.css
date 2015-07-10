@@ -47,3 +47,14 @@ body {
 .landing-page__body a {
   color: inherit;
 }
+
+.btn-transparent {
+  background: transparent;
+  border: 2px solid #fff;
+  font-weight: bold;
+}
+
+.btn-transparent:hover,
+.btn-transparent:focus {
+  color: inherit;
+}
